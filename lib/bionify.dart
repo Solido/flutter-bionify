@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 
+/*
+Format any content with fast reading guidance
+ */
 class Bionify extends StatelessWidget {
   final String content;
   final double ratio;

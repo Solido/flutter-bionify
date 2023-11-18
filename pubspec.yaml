@@ -1,6 +1,8 @@
 name: bionify
-description: Bionify easy reading
-version: 0.0.1+2
+description: >-
+  Bionify easy reading. By adding a bold prefix it simplify the eye guidance 
+  making any fast reading much comfortable.
+version: 0.0.1+6
 homepage: https://github.com/Solido/flutter-bionify
 
 environment:

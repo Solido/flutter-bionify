@@ -1,3 +1,7 @@
+## 0.0.1+6
+
+- Update dart version
+
 ## 0.0.1+3
 
 - Configuration
